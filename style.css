@@ -3,7 +3,7 @@ html {
   }
   
   body {
-    background: url(../images/bg01.png) repeat left top;
+    background: url(bg01.png) repeat left top;
     color: #222;
     font-family: noto sans jp, sans-serif;
     font-weight: 400;
@@ -643,7 +643,7 @@ html {
   }
   
   .content-title {
-    background: url(../images/cap_bg01.png) no-repeat bottom center;
+    background: url(cap_bg01.png) no-repeat bottom center;
     background-size: 100% auto;
     margin-bottom: clamp(3rem, 6vw, 7rem);
     padding: 5rem 3rem;
@@ -658,7 +658,7 @@ html {
   
   @media screen and (max-width: 426px) {
     .content-title {
-      background: url(../image/cap_bg01.png) no-repeat top center;
+      background: url(cap_bg01.png) no-repeat top center;
       padding: 2rem;
     }
   }
@@ -1014,7 +1014,7 @@ html {
   }
   
   .new-result__box {
-    background: url(../images/result_bgx.jpg) no-repeat center center;
+    background: url(result_bgx.jpg) no-repeat center center;
     background-attachment: fixed;
     background-size: cover;
     margin: 0 auto clamp(5rem, 7vw, 8rem);
